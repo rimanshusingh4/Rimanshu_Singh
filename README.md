@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rimanshu Singh</h1>
 <h3 align="center">A passionate Javascript developer.</h3>
 
-<img align="right" href="" alt="codegif" width="400" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
+<img align="right" href="" alt="codegif" width="300" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimanshusingh4&label=Profile%20views&color=0e75b6&style=flat" alt="rimanshusingh4" /> </p>
 
