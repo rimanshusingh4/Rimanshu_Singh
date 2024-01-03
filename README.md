@@ -4,8 +4,6 @@
 
 <img align="right" href="" alt="codegif" width="300" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
 
-<p align="left"> <a href="https://twitter.com/rimanshusingh11" target="blank"><img src="https://img.shields.io/twitter/follow/rimanshusingh11?logo=twitter&style=for-the-badge" alt="rimanshusingh11" /></a> </p>
-
 - 🔭 I’m currently working on **E-Com Project**
 
 - 🌱 I’m currently learning **React.js, React Native**
