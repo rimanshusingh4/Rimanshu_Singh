@@ -36,10 +36,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!--
 ### 😂 Random Dev Meme
 <img align="center" src='https://randommeme-five.vercel.app/' style="height: 300px width:300px;"/>
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=rim&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
