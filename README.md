@@ -1,4 +1,4 @@
-# 💫 About Me: Hey People's, I'm Rimanshu Singh
+# 💫 Hey People's, I'm Rimanshu Singh
 <br>
 
 
