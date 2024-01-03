@@ -1,3 +1,4 @@
+![logo](https://camo.githubusercontent.com/d23687d2497b22e6e7c318ea3ca2de29b031f681728b0a5a55ca00744faa413b/68747470733a2f2f6d656469612e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966)
 <h1 align="center">Hello People's 👋, I'm Rimanshu Singh</h1>
 <h3 align="center">A passionate Javascript developer.</h3>
 
