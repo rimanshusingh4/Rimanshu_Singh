@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js, NodeJS, MongoDB**
 
-- 💬 Ask me about **React, PhP, Vite, Next**
+- 💬 Ask me about **React, MongoDB, Express, Vite, Next, (HTML, CSS, Javascript, SQL, TailwindCSS)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimanshusingh4&label=Profile%20views&color=0e75b6&style=flat" alt="rimanshusingh4" /> </p>
 
