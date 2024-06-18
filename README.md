@@ -4,7 +4,7 @@
 
 <img align="right" href="" alt="codegif" width="300" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
 
-- 🔭 I’m currently working on **E-Com Project**
+- 🔭 I’m currently working on **Video sharing Web app**
 
 - 🌱 I’m currently learning **React.js, NodeJS, MongoDB**
 
