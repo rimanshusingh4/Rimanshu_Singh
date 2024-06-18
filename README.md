@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **E-Com Project**
 
-- 🌱 I’m currently learning **React.js, React Native**
+- 🌱 I’m currently learning **React.js, NodeJS, MongoDB**
 
 - 💬 Ask me about **React, PhP, Vite, Next**
 
