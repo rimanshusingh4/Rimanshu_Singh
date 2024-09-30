@@ -1,6 +1,5 @@
-![logo](https://camo.githubusercontent.com/d23687d2497b22e6e7c318ea3ca2de29b031f681728b0a5a55ca00744faa413b/68747470733a2f2f6d656469612e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966)
 <h1 align="center">Hello People's 👋, I'm Rimanshu Singh</h1>
-<h3 align="center">A passionate MERN developer.</h3>
+<h3 align="center">A passionate MERN Stack developer.</h3>
 
 <img align="right" href="" alt="codegif" width="300" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
 
@@ -14,8 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rimanshusingh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rimanshusingh11" height="30" width="40" /></a>
+<a href="https://rimanshusingh4.github.io/Portfolio-Master/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev-dot-to.svg" alt="rimanshusingh11" height="30" width="40" /></a>
+<a href="https://forme.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="rimanshusingh11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rimanshusingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rimanshusingh/" height="30" width="40" /></a>
+<a href="https://twitter.com/rimanshusingh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rimanshusingh11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rimanshu007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rimanshu007" height="30" width="40" /></a>
 <a href="https://discord.gg/rimanshu." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rimanshu." height="30" width="40" /></a>
 </p>
